@@ -1,5 +1,8 @@
 # 💫 About Me:
- 
+ Curious learner | Python | DSA | Data Science | Machine Learning 
+
+I enjoy breaking down problems, writing clean code, and understanding how things work under the hood.
+My repositories reflect practice, experiments, and projects built while learning with real datasets and real challenges.
 
 
 ## 🌐 Socials:
