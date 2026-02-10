@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working webprojects and ml frameworks<br>👯 I’m looking to collaborate on ml projects<br>🤝 I’m looking for <br>🌱 I’m currently ml , DSA , SQL , WEBDESIGN etc<br>💬 Ask me about<br>⚡ Fun fact 
+ 
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Umeshwar2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
